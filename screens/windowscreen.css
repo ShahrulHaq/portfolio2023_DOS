@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*
+  //wallet
+
+  font-family: "Space Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
+#72a3d5
+#ff3234//
+#373135
+#ffe880//
+#fefefc//
+#faf5d2//
+#2d7dd7
+#fe716e//
+#00ff7b
+#18b4cd//
+#ffbd0c//
+#837879//
+
+
+
+
+*/
+:root {
+    --section:#837879;
+    --popupBg:#faf5d2;
+    --popupBtn:#fefefc;
+    --progressFrame:#fe716e;
+    --windowFrame:#18b4cd;
+    --scrollBar:#ffbd0c;
+    --folder:#ffe880;
+    --warning:#ff3234;
+  }
+
+*{
+    margin: 0;
+    padding: 0px;
+    font-family: "IBM Plex Mono", monospace;
+    border-collapse: collapse;
+}
+.windowsDoc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--section);
+
+    display: flex;
+    position: fixed;
+    
+}
+.appSection{
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.app{
+    margin: 10px;
+}
+.app img{
+    width: 50px;
+}
+.app h4{
+    font-size: 10px;
+}
+.windowSection{
+    flex: 4;
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.appWidow{
+    height: fit-content;
+    width: fit-content;
+}

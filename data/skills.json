@@ -1,0 +1,92 @@
+[
+    {
+        "skill": "HTML5",
+        "image":"..icon/Logo/html5.png",
+        "level": "90%"
+    },
+    {
+        "skill": "CSS3",
+        "image":"..icon/Logo/css3.png",
+        "level": "80%"
+    },
+    {
+        "skill": "Booststrap",
+        "image":"..icon/Logo/booststrap.png",
+        "level": "70%"
+    },
+    {
+        "skill": "Javascript",
+        "image":"..icon/Logo/javascript.png",
+        "level": "60%"
+    },
+    {
+        "skill": "Typescript",
+        "image":"..icon/Logo/typescript.png",
+        "level": "40%"
+    },
+    {
+        "skill": "Vue.js",
+        "image":"..icon/Logo/vue.png",
+        "level": "60%"
+    },
+    {
+        "skill": "React native",
+        "image":"..icon/Logo/reactnative.png",
+        "level": "60%"
+    },
+    {
+        "skill": "JQuery",
+        "image":"..icon/Logo/jquery.png",
+        "level": "50%"
+    },
+    {
+        "skill": "Angular",
+        "image":"..icon/Logo/angular.png",
+        "level": "50%"
+    },
+    {
+        "skill": "Node.js",
+        "image":"..icon/Logo/nodejs1.png",
+        "level": "60%"
+    },
+    {
+        "skill": "MySQL",
+        "image":"..icon/Logo/mysql.png",
+        "level": "70%"
+    },
+    {
+        "skill": "PHP",
+        "image":"..icon/Logo/php.png",
+        "level": "70%"
+    },
+    {
+        "skill": "JAVA",
+        "image":"..icon/Logo/java.png",
+        "level": "65%"
+    },
+    {
+        "skill": "Python",
+        "image":"..icon/Logo/python.png",
+        "level": "70%"
+    },
+    {
+        "skill": "C",
+        "image":"..icon/Logo/c.png",
+        "level": "60%"
+    },
+    {
+        "skill": "R",
+        "image":"..icon/Logo/r.png",
+        "level": "40%"
+    },
+    {
+        "skill": "ASP.net",
+        "image":"..icon/Logo/asp.png",
+        "level": "50%"
+    },
+    {
+        "skill": "Figma",
+        "image":"..icon/Logo/figma.png",
+        "level": "90%"
+    }
+]
